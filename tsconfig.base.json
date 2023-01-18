@@ -14,7 +14,10 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@myorg/is-even": ["packages/is-even/src/index.ts"],
+      "@myorg/is-odd": ["packages/is-odd/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
