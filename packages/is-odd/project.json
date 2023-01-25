@@ -35,6 +35,12 @@
         "passWithNoTests": true,
         "reportsDirectory": "../../coverage/packages/is-odd"
       }
+    },
+    "version": {
+      "executor": "@jscutlery/semver:version",
+      "options": {
+        "preset": "conventional"
+      }
     }
   },
   "tags": []

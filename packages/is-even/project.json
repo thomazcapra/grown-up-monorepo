@@ -35,6 +35,12 @@
         "passWithNoTests": true,
         "reportsDirectory": "../../coverage/packages/is-even"
       }
+    },
+    "version": {
+      "executor": "@jscutlery/semver:version",
+      "options": {
+        "preset": "conventional"
+      }
     }
   },
   "tags": []

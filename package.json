@@ -2,10 +2,14 @@
   "name": "thomazcapra",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "prepare": "husky install"
+  },
   "private": true,
-  "dependencies": {},
   "devDependencies": {
+    "@commitlint/cli": "^17.0.0",
+    "@commitlint/config-conventional": "^17.0.0",
+    "@jscutlery/semver": "^2.29.3",
     "@nrwl/eslint-plugin-nx": "15.5.2",
     "@nrwl/js": "15.5.2",
     "@nrwl/linter": "15.5.2",
@@ -18,6 +22,7 @@
     "@vitest/ui": "^0.25.8",
     "eslint": "~8.15.0",
     "eslint-config-prettier": "8.1.0",
+    "husky": "^8.0.0",
     "jsdom": "~20.0.3",
     "nx": "15.5.2",
     "prettier": "^2.6.2",
@@ -26,5 +31,6 @@
     "vite-plugin-eslint": "^1.8.1",
     "vite-tsconfig-paths": "^4.0.2",
     "vitest": "^0.25.8"
-  }
+  },
+  "dependencies": {}
 }
