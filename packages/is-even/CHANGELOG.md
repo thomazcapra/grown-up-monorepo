@@ -2,6 +2,14 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+## [1.1.0](https://github.com/thomazcapra/grown-up-monorepo/compare/is-even-1.0.0...is-even-1.1.0) (2023-01-25)
+
+
+### Features
+
+* **scope2:** new scope 2 message ([e991adb](https://github.com/thomazcapra/grown-up-monorepo/commit/e991adbc38c8fe45d1ea7005a6ef1a1b5160d62d))
+* **scope2:** teste scope2 ([47f9a07](https://github.com/thomazcapra/grown-up-monorepo/commit/47f9a07b09c5150ab96c0c600ce5f0dad3818307))
+
 ## [1.0.0](https://github.com/thomazcapra/grown-up-monorepo/compare/is-even-0.1.0...is-even-1.0.0) (2023-01-25)
 
 
