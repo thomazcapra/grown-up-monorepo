@@ -2,6 +2,27 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+## [2.0.0](https://github.com/thomazcapra/grown-up-monorepo/compare/is-even-1.1.0...is-even-2.0.0) (2023-01-26)
+
+
+### ⚠ BREAKING CHANGES
+
+* **Chip:** appearance changed to variant
+
+### Features
+
+* **Button:** new button added ([95db94c](https://github.com/thomazcapra/grown-up-monorepo/commit/95db94c7d1f543975a66a40518c6712838a74934)), closes [#1234](https://github.com/thomazcapra/grown-up-monorepo/issues/1234)
+
+
+### Bug Fixes
+
+* **Button:** wrong paddings ([124d0af](https://github.com/thomazcapra/grown-up-monorepo/commit/124d0affe75e7e73bbef3a61c67c45ef8a1cd7cf)), closes [#1233](https://github.com/thomazcapra/grown-up-monorepo/issues/1233)
+
+
+### Code Refactoring
+
+* **Chip:** change props interface ([d0e1fb6](https://github.com/thomazcapra/grown-up-monorepo/commit/d0e1fb649b5216ae046827da9bbb931fe7a6885b)), closes [#12345](https://github.com/thomazcapra/grown-up-monorepo/issues/12345)
+
 ## [1.1.0](https://github.com/thomazcapra/grown-up-monorepo/compare/is-even-1.0.0...is-even-1.1.0) (2023-01-25)
 
 
