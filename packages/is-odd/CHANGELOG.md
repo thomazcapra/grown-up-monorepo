@@ -2,6 +2,8 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+### [1.0.1](https://github.com/thomazcapra/grown-up-monorepo/compare/is-odd-1.0.0...is-odd-1.0.1) (2023-01-26)
+
 ## [1.0.0](https://github.com/thomazcapra/grown-up-monorepo/compare/is-odd-0.2.0...is-odd-1.0.0) (2023-01-26)
 
 
