@@ -2,6 +2,17 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+## [3.0.0](https://github.com/thomazcapra/grown-up-monorepo/compare/is-even-2.0.0...is-even-3.0.0) (2023-01-26)
+
+
+### ⚠ BREAKING CHANGES
+
+* **Calendar:** Removed calendar from prop
+
+### Bug Fixes
+
+* **Calendar:** removed cenas ([9899827](https://github.com/thomazcapra/grown-up-monorepo/commit/989982784c2c665bcca21d651efd4068d9a4de5b)), closes [#123456](https://github.com/thomazcapra/grown-up-monorepo/issues/123456)
+
 ## [2.0.0](https://github.com/thomazcapra/grown-up-monorepo/compare/is-even-1.1.0...is-even-2.0.0) (2023-01-26)
 
 
