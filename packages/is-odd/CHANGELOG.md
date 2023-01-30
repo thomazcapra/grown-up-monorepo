@@ -2,6 +2,17 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+## [2.0.0](https://github.com/thomazcapra/grown-up-monorepo/compare/is-odd-1.0.2...is-odd-2.0.0) (2023-01-30)
+
+
+### ⚠ BREAKING CHANGES
+
+* **Button:** now the variant is other
+
+### Bug Fixes
+
+* **Button:** removed variant ([6994e91](https://github.com/thomazcapra/grown-up-monorepo/commit/6994e91c38cdc28aefba15876c76175c9311d615)), closes [#123455](https://github.com/thomazcapra/grown-up-monorepo/issues/123455)
+
 ### [1.0.2](https://github.com/thomazcapra/grown-up-monorepo/compare/is-odd-1.0.1...is-odd-1.0.2) (2023-01-26)
 
 
