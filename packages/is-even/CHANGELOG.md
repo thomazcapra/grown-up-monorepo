@@ -2,6 +2,13 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+## [3.1.0](https://github.com/thomazcapra/grown-up-monorepo/compare/is-even-3.0.0...is-even-3.1.0) (2023-01-30)
+
+
+### Features
+
+* **Button:** new color added ([e31e1d3](https://github.com/thomazcapra/grown-up-monorepo/commit/e31e1d33a149083ba3251422bb046f318f5b8f98))
+
 ## [3.0.0](https://github.com/thomazcapra/grown-up-monorepo/compare/is-even-2.0.0...is-even-3.0.0) (2023-01-26)
 
 
